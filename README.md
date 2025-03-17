@@ -86,7 +86,7 @@ The CNN architecture consists of:
 - Output: 49 symbol classes
 
 ## Demo Video
-![Demo](https://github.com/IITH-Epoch/Projects_2024-25/blob/main/Handwritten_Math_Expn_Solver/HMES%20Demo%203.gif)
+![Demo](https://github.com/aroshishp/Handwritten-Mathematical-Expression-Solver/blob/main/HMES%20Demo%203.gif)
 
 ## Requirements
 
